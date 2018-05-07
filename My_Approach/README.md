@@ -15,4 +15,4 @@ Link to Dataset: https://tinyurl.com/Amazon-fine-food-review
 <br><p>
 Link to ConceptNet Numberbatch word embedding:https://github.com/commonsense/conceptnet-numberbatch
 <br><p>
-Link to Pretrained Model: _link_
+Link to Pretrained Model: https://drive.google.com/file/d/1y2xwc0Yko4UQYIS9Ovq4zWu9DsNjDlgi/view?usp=sharing
