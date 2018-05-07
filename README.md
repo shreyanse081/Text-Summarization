@@ -1,3 +1,7 @@
+# To see my implementation go to My_Approach folder.
+
+<hr>
+
 # Text-Summarization-with-Amazon-Reviews
 
 The objective of this project is to build a seq2seq model that can create relevant summaries for reviews written about fine foods sold on Amazon. This dataset contains above 500,000 reviews, and is hosted on [Kaggle](https://www.kaggle.com/snap/amazon-fine-food-reviews). It's too large to host here, it's over 300MB.
