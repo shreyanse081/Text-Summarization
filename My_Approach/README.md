@@ -2,7 +2,8 @@
 
 <p>This is a 2nd Semister M.Tech Project at Bennett University.<br>
 To use the code download the reposository and extract My_Approach folder. <br>
-"affr_txtSummariser.ipynb" is the code file.
+"affr_txtSummariser.ipynb" is the code file.<br>
+The code file contains most of the links and descriptions and issues faced while making it.
 <br><p>
 ROUGE score implementation can be found in the code. 
 <br><p>
